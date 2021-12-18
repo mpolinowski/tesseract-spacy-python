@@ -10,4 +10,4 @@
 
 ## Working with Prediction Models
 
-WIP
+[spaCy NER Predictions](https://mpolinowski.github.io/devnotes/2021-11-02--spacy_ner_predictions)
